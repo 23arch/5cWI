@@ -1,4 +1,4 @@
-package at.talha.algorithms.Sorting;
+package at.talha.Sorting;
 
 public interface Sorting {
     public int[] sort(int[] data);

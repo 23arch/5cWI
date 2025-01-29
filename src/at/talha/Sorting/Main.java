@@ -1,4 +1,4 @@
-package at.talha.algorithms.Sorting;
+package at.talha.Sorting;
 
 public class Main {
     public static void main(String[] args) {
